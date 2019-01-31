@@ -16,12 +16,12 @@
 --Package Nugets Utilizados:
 
 
-<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
-<PackageReference Include="Microsoft.AspNetCore.App" />
-<PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
-<PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.1" />
-<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.1" />
-<PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
+AutoMapper.Extensions.Microsoft.DependencyInjection" 
+Microsoft.AspNetCore.App" />
+Microsoft.AspNetCore.Razor.Design" Version="2.2.0" 
+Microsoft.EntityFrameworkCore" Version="2.2.1"
+Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.1"
+Swashbuckle.AspNetCore" Version="4.0.1" 
 
 
 **Especificaciones de Prueba
