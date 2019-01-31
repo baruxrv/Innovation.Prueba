@@ -1,0 +1,9 @@
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Entities/bin/Debug/netstandard2.0/Innovation.DGT.Entities.deps.json
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Entities/bin/Debug/netstandard2.0/Innovation.DGT.Entities.dll
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Entities/bin/Debug/netstandard2.0/Innovation.DGT.Entities.pdb
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Entities/obj/Debug/netstandard2.0/Innovation.DGT.Entities.csproj.CoreCompileInputs.cache
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Entities/obj/Debug/netstandard2.0/Innovation.DGT.Entities.AssemblyInfoInputs.cache
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Entities/obj/Debug/netstandard2.0/Innovation.DGT.Entities.AssemblyInfo.cs
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Entities/obj/Debug/netstandard2.0/Innovation.DGT.Entities.dll
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Entities/obj/Debug/netstandard2.0/Innovation.DGT.Entities.pdb
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Entities/obj/Debug/netstandard2.0/Innovation.DGT.Entities.csprojAssemblyReference.cache

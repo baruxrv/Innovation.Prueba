@@ -1,0 +1,12 @@
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/bin/Debug/netstandard2.0/Innovation.DGT.DBContext.deps.json
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/bin/Debug/netstandard2.0/Innovation.DGT.DBContext.dll
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/bin/Debug/netstandard2.0/Innovation.DGT.DBContext.pdb
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/bin/Debug/netstandard2.0/Innovation.DGT.Entities.dll
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/bin/Debug/netstandard2.0/Innovation.DGT.Entities.pdb
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/obj/Debug/netstandard2.0/Innovation.DGT.DBContext.csprojAssemblyReference.cache
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/obj/Debug/netstandard2.0/Innovation.DGT.DBContext.csproj.CoreCompileInputs.cache
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/obj/Debug/netstandard2.0/Innovation.DGT.DBContext.AssemblyInfoInputs.cache
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/obj/Debug/netstandard2.0/Innovation.DGT.DBContext.AssemblyInfo.cs
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/obj/Debug/netstandard2.0/Innovation.DGT.DBContext.csproj.CopyComplete
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/obj/Debug/netstandard2.0/Innovation.DGT.DBContext.dll
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.DBContext/obj/Debug/netstandard2.0/Innovation.DGT.DBContext.pdb

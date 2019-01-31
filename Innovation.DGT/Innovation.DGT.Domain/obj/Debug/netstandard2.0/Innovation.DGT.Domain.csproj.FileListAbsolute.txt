@@ -1,0 +1,14 @@
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/bin/Debug/netstandard2.0/Innovation.DGT.Domain.deps.json
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/bin/Debug/netstandard2.0/Innovation.DGT.Domain.dll
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/bin/Debug/netstandard2.0/Innovation.DGT.Domain.pdb
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/bin/Debug/netstandard2.0/Innovation.DGT.DBContext.dll
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/bin/Debug/netstandard2.0/Innovation.DGT.Entities.dll
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/bin/Debug/netstandard2.0/Innovation.DGT.Entities.pdb
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/bin/Debug/netstandard2.0/Innovation.DGT.DBContext.pdb
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/obj/Debug/netstandard2.0/Innovation.DGT.Domain.csprojAssemblyReference.cache
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/obj/Debug/netstandard2.0/Innovation.DGT.Domain.csproj.CoreCompileInputs.cache
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/obj/Debug/netstandard2.0/Innovation.DGT.Domain.AssemblyInfoInputs.cache
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/obj/Debug/netstandard2.0/Innovation.DGT.Domain.AssemblyInfo.cs
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/obj/Debug/netstandard2.0/Innovation.DGT.Domain.csproj.CopyComplete
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/obj/Debug/netstandard2.0/Innovation.DGT.Domain.dll
+/home/barux/git/Innovation.Prueba/Innovation.DGT/Innovation.DGT.Domain/obj/Debug/netstandard2.0/Innovation.DGT.Domain.pdb
